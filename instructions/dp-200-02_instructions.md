@@ -256,7 +256,7 @@ The main tasks for this exercise are as follows:
 
 1. In the **awdlsstudxx** screen, where **xx** are your initials, click **Containers**.
 
-1. In the **awrgstudxx - Containers** screen, at the top left, click on the  **+ Containers** button.
+1. In the **awdlsstudxx - Containers** screen, at the top left, click on the  **+ Containers** button.
 
 1. From the **New** screen, create two containers with the following name:
 
